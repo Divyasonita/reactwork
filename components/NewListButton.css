@@ -1,0 +1,11 @@
+.un-clicked{
+    display: none;
+}
+
+.list-list{
+    display: inline-flex;
+    max-width: 100%;
+    background-color: rgb(240, 240, 247);
+    padding: 15px;
+    
+}
